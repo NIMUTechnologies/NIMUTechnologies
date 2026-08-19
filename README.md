@@ -29,13 +29,14 @@ We combine engineering expertise and business understanding to build solutions t
 - **Website:** https://nimutechnologies.com/
 - **LinkedIn:** https://www.linkedin.com/company/nimu-technologies/
 - **Facebook:** https://www.facebook.com/nimutechnologies
-- **Instagram:** https://www.instagram.com/nimutechnologies/
+- **Instagram:** https://www.instagram.com/NIMUTechnologiesOfficial/
+- **YouTube:** https://www.youtube.com/@NIMUTechnologiesOfficial
 
 ## 📩 Contact
 
 For business enquiries and technology solutions:
 
-**Email:** technologiesnimu@gmail.com
+**Email:** contact@nimutechnologies.com
 
 ---
 
